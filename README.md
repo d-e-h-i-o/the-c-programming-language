@@ -1,6 +1,8 @@
 # the-c-programming-language
 Exercises of The C Programming Language by Kernighan and Ritchie. Programs are written with help of the solutions book by Tondo/Gimpel. 
 
+Note: ./a.out < text.txt for testing the program
+
 Contents: 
 
 1:	 Hello World program, simple start of every programming language learning experience
